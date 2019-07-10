@@ -3,6 +3,7 @@ body {
     color: #EAF2EF;
     width: 1400px;
     margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
 }
 
 .full-width {
@@ -51,9 +52,11 @@ nav ul li a {
 header h2 {
     width: 1000px;
     clear: both;
-    font-size: 50px;
+    font-size: 55px;
     color: #FFBD3F;
     margin: auto;
     padding: 140px 10px 0 10px;
     text-align: center;
+    font-family: 'Merriweather', serif;
+    letter-spacing: 1px;
 }
