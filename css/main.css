@@ -3,6 +3,7 @@ body {
     color: #EAF2EF;
     width: 1400px;
     margin: 0 auto;
+    font-family: 'Poppins', sans-serif;
 }
 
 .full-width {
@@ -56,4 +57,5 @@ header h2 {
     margin: auto;
     padding: 140px 10px 0 10px;
     text-align: center;
+    font-family: 'Merriweather', serif;
 }
