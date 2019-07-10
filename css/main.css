@@ -1,0 +1,59 @@
+body {
+    background: #0D090A;
+    color: #EAF2EF;
+    width: 1400px;
+    margin: 0 auto;
+}
+
+.full-width {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.half-width {
+    width: 600px;
+    float: left;
+}
+
+.third-width {
+    width: 400px;
+    float: left;
+}
+
+/* Header section */
+
+header {
+    height: 800px;
+    background: url(../img/hero.jpg);
+    background-size: cover;
+}
+
+header h1 {
+    font-size: 30px;
+}
+/* Nav bar */
+
+nav {
+    float: right;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 30px;
+    color: #EAF2EF;
+    padding-left: 45px;    
+}
+
+header h2 {
+    width: 1000px;
+    clear: both;
+    font-size: 50px;
+    color: #FFBD3F;
+    margin: auto;
+    padding: 140px 10px 0 10px;
+    text-align: center;
+}
