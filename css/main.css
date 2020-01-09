@@ -52,7 +52,7 @@ nav ul li a {
 header h2 {
     width: 1000px;
     clear: both;
-    font-size: 55px;
+    font-size: 50px;
     color: #FFBD3F;
     margin: auto;
     padding: 140px 10px 0 10px;
@@ -70,6 +70,8 @@ section  h3 {
     color: #FFBD3F;
     padding: 20px 0 40px 0;
     text-align: center;
+    font-size: 40px;
+    font-family: 'Merriweather', serif;
 }
 
 .thumbnail {
@@ -78,3 +80,19 @@ section  h3 {
     border: solid white 1px;
 }
 
+.designs {
+    height: 400px;
+}
+
+
+.designs h5 {
+    font-size: 26px;
+}
+
+.designs h6 {
+    font-size: 18px;
+}
+
+.designs p {
+    padding-right: 50px;
+}
