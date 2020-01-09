@@ -89,10 +89,18 @@ section  h3 {
     font-size: 26px;
 }
 
-.designs h6 {
+ h6 {
     font-size: 18px;
 }
 
 .designs p {
     padding-right: 50px;
+}
+
+#social-media li a {
+    color: #EAF2EF;
+}
+
+#social-media li a:hover {
+    color: #FFBD3F;
 }
