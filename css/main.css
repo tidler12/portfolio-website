@@ -58,5 +58,23 @@ header h2 {
     padding: 140px 10px 0 10px;
     text-align: center;
     font-family: 'Merriweather', serif;
-    letter-spacing: 1px;
 }
+
+/* Portfolio section */
+
+#portfolio {
+    height: 1550px;
+}
+
+section  h3 {
+    color: #FFBD3F;
+    padding: 20px 0 40px 0;
+    text-align: center;
+}
+
+.thumbnail {
+    height: 300px;
+    width: 550px;
+    border: solid white 1px;
+}
+
