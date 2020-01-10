@@ -38,15 +38,19 @@ nav {
     float: right;
 }
 
-nav ul li {
+ul li {
     display: inline-block;
 }
 
 nav ul li a {
+    padding-left: 45px;    
+}
+
+ul li a {
     text-decoration: none;
     font-size: 30px;
     color: #EAF2EF;
-    padding-left: 45px;    
+
 }
 
 header h2 {
@@ -63,7 +67,7 @@ header h2 {
 /* Portfolio section */
 
 #portfolio {
-    height: 1550px;
+    height: 1400px;
 }
 
 section  h3 {
@@ -97,8 +101,9 @@ section  h3 {
     padding-right: 50px;
 }
 
-#about {
-    height: 400px;
+#about p{
+    margin-top: 30px;
+    padding-top: 20px;
 }
 
 #social-media li a {
@@ -106,5 +111,17 @@ section  h3 {
 }
 
 #social-media li a:hover {
+    color: #FFBD3F;
+}
+
+#social-media ul li a {
+    padding: 10px;
+}
+
+#contact{
+    text-align: center;
+}
+
+#contact h6 {
     color: #FFBD3F;
 }
