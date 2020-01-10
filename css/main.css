@@ -24,7 +24,7 @@ body {
 /* Header section */
 
 header {
-    height: 800px;
+    height: 700px;
     background: url(../img/hero.jpg);
     background-size: cover;
 }
@@ -67,7 +67,7 @@ header h2 {
 /* Portfolio section */
 
 #portfolio {
-    height: 1400px;
+    height: 1300px;
 }
 
 section  h3 {
@@ -101,6 +101,9 @@ section  h3 {
     padding-right: 50px;
 }
 
+#about {
+    height: 550px;
+}
 #about p{
     margin-top: 30px;
     padding-top: 20px;
