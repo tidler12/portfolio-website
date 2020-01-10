@@ -97,6 +97,10 @@ section  h3 {
     padding-right: 50px;
 }
 
+#about {
+    height: 400px;
+}
+
 #social-media li a {
     color: #EAF2EF;
 }
